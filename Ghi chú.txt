@@ -1,0 +1,2 @@
+Các icon dùng icon của bootstrap giống tương đối hoặc cắt từ ảnh demo
+Menu có hai chế độ thu nhỏ và mở rộng cần đáp ứng
